@@ -4,7 +4,10 @@
 
 국가신용등급이란? 국가가 외국에서 빌린 돈을 갚을 수 있는 능력과 의지를 평가한 것이다.
 
-종속변수 : 국가신용등급
+종속변수 : 국가신용등급을 점수화하여 레이블링
+![image](https://user-images.githubusercontent.com/96242198/168001159-9ad801c6-969b-4aac-9d32-2d87f63bcb3c.png)
+
+
 
 Trading Economic에서 세계 3대 신용평가회사인 Moody's, S&P, Fitch가 산정한 나라별 신용등급을
 
